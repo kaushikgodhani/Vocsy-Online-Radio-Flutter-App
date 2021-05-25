@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193938591735",
+    "firebase_url": "https://testing-radio.firebaseio.com",
+    "project_id": "testing-radio",
+    "storage_bucket": "testing-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193938591735:android:76f896210d684c3c9f28f2",
+        "android_client_info": {
+          "package_name": "com.radio.allinone.liveradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193938591735-56lmn3cbla0jhlas2sf8s4bujk2crgqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radio.allinone.liveradio",
+            "certificate_hash": "e6b5b1f5f1b550023523a831b1e0a7f2cc9b0e0c"
+          }
+        },
+        {
+          "client_id": "193938591735-b0vclv00ilas35kcavlc897a2as77eca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAin6PdMAZ5cZeTU_DHF4pkNwNPxddKyWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193938591735-b0vclv00ilas35kcavlc897a2as77eca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
